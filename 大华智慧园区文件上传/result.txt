@@ -1,0 +1,12 @@
+http://60.213.11.14:9999 存在任意文件上传漏洞! 请访问目标自测：http://60.213.11.14:9999/upload/emap/society_new/ico_res_748b9eae113c_on.jsp 
+
+http://223.220.164.206:8009 存在任意文件上传漏洞! 请访问目标自测：http://223.220.164.206:8009/upload/emap/society_new/ico_res_101cc2baaa6d_on.jsp 
+
+http://58.58.186.240:8009 存在任意文件上传漏洞! 请访问目标自测：http://58.58.186.240:8009/upload/emap/society_new/ico_res_86ae31d21a34_on.jsp 
+
+http://58.20.63.185:8009 存在任意文件上传漏洞! 请访问目标自测：http://58.20.63.185:8009/upload/emap/society_new/ico_res_bb71cf72cecf_on.jsp 
+
+http://58.221.169.42:8009 存在任意文件上传漏洞! 请访问目标自测：http://58.221.169.42:8009/upload/emap/society_new/ico_res_581faf894ae1_on.jsp 
+
+http://218.108.199.210:8009 存在任意文件上传漏洞! 请访问目标自测：http://218.108.199.210:8009/upload/emap/society_new/ico_res_5916f9212cc3_on.jsp 
+
